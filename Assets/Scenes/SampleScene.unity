@@ -195,7 +195,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 983306582, guid: 22a022e08e6cfdf448b27f8eeddede5c, type: 3}
       propertyPath: m_Mass
-      value: 0.05
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 983306584, guid: 22a022e08e6cfdf448b27f8eeddede5c, type: 3}
+      propertyPath: mainThrust
+      value: 25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a022e08e6cfdf448b27f8eeddede5c, type: 3}
