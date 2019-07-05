@@ -30,6 +30,9 @@ public class Rocket : MonoBehaviour
             case "Friendly":
                 print("Safe zone");
                 break;
+            case "Finish":
+                print("You won!");
+                break;
             case "Fuel":
                 print("Fuel");
                 break;  
